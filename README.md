@@ -2,11 +2,11 @@
 
 ###
 
+<h2 align="left">About me</h2>
+
 <p align="left">My name is Matheus, and I graduated with a degree in Geology/Geological Engineering from the University of São Paulo.<br><br>Currently, I am in the process of transitioning my career, a field I have always been passionate about. I've always been curious about how things work behind the scenes in computers, which led me to start learning programming with C and C++. I am now deepening my knowledge in Java, particularly with Spring Boot, and also exploring JavaScript with React.</p>
 
 ###
-
-<h2 align="left">About me</h2>
 
 <h2 align="left">I code with</h2>
 
